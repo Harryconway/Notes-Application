@@ -1,0 +1,15 @@
+.grid,
+.input,
+.add,
+.notes,
+p {
+  display: grid;
+  justify-content: center;
+  margin: 10px;
+  font-family: "soehne-breit-leicht", sans-serif;
+  font-weight: 100;
+}
+.add {
+  border: none;
+  border-radius: 10%;
+}
